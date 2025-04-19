@@ -25,9 +25,3 @@ This is a perfect beginner-to-intermediate level Laravel project that helps you 
 - Displaying and restoring soft deleted records
 - Creating search filters in Eloquent
 - Designing a clean Bootstrap 5 UI
-
-Source Code: https://github.com/shadrackjm/laravel-12-crud
-
-👍 Like, Share & Subscribe for more Laravel tutorials!
-
-🔔 Don’t forget to turn on notifications so you won’t miss upcoming videos on Livewire, TALL Stack, APIs, and more!
